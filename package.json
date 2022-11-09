@@ -10,6 +10,9 @@
     "rindoeslint",
     "rindo eslint"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Navify Team",
   "main": "dist/index.js",
   "files": [
